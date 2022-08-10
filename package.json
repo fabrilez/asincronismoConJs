@@ -1,0 +1,22 @@
+{
+  "name": "asincronismoconjs",
+  "version": "1.0.0",
+  "description": "Repositorio del curso de asincronismo de Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabrilez/asincronismoConJs.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Fabrizio Lezcano fabrilez2001@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabrilez/asincronismoConJs/issues"
+  },
+  "homepage": "https://github.com/fabrilez/asincronismoConJs#readme"
+}
