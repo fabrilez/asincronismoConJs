@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/fabrilez/asincronismoConJs/issues"
   },
-  "homepage": "https://github.com/fabrilez/asincronismoConJs#readme"
+  "homepage": "https://github.com/fabrilez/asincronismoConJs#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
