@@ -4,7 +4,7 @@
   "description": "Repositorio del curso de asincronismo de Platzi",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "callback": "node src/xmlhttpRequest.js"
   },
   "repository": {
     "type": "git",
