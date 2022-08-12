@@ -4,7 +4,7 @@
   "description": "Repositorio del curso de asincronismo de Platzi",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d src"
+    "deploy": "gh-pages -d landing"
   },
   "repository": {
     "type": "git",
